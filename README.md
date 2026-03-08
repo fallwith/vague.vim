@@ -12,7 +12,12 @@
 git clone https://github.com/vague-theme/vague.vim.git ~/.vim/pack/vendor/start/vague.vim
 ```
 
-2. Run the `:colorscheme vague` command in Vim
+2. Modify your `vimrc` config file:
+
+```vim
+set termguicolors " Ensure this option is set
+colorscheme vague
+```
 
 ## Thanks to contributors
 
