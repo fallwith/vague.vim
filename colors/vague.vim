@@ -96,5 +96,3 @@ hi htmlEndTag term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#cdc
 hi htmlSpecialTagName term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#b4d4cf guibg=NONE guisp=NONE
 hi htmlTag term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
 hi htmlTagName term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#b4d4cf guibg=NONE guisp=NONE
-hi netrwClassify term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#7e98e8 guibg=NONE guisp=NONE
-hi netrwTreeBar term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
