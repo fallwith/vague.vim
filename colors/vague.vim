@@ -84,9 +84,8 @@ hi StatusLineTermNC cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
 hi StorageClass cterm=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
 hi String cterm=italic gui=italic guifg=#e8b589 guibg=NONE guisp=NONE
 hi Structure cterm=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
-hi TabLine cterm=NONE gui=NONE guifg=NONE guibg=#1c1c24 guisp=NONE
-hi TabLineFill cterm=NONE gui=NONE guifg=NONE guibg=#1c1c24 guisp=NONE
-hi TabLineSel cterm=NONE gui=NONE guifg=#1c1c24 guibg=#cdcdcd guisp=NONE
+hi TabLine cterm=NONE gui=NONE guifg=#606079 guibg=#1c1c24 guisp=NONE
+hi TabLineFill cterm=NONE gui=NONE guifg=#606079 guibg=#1c1c24 guisp=NONE
 hi Title cterm=NONE gui=NONE guifg=#c3c3d5 guibg=NONE guisp=NONE
 hi Todo cterm=italic gui=italic guifg=#c48282 guibg=NONE guisp=NONE
 hi Type cterm=NONE gui=NONE guifg=#9bb4bc guibg=NONE guisp=NONE
