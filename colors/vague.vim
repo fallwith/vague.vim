@@ -53,12 +53,9 @@ hi NonText cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
 hi Normal cterm=NONE gui=NONE guifg=#cdcdcd guibg=#141415 guisp=NONE
 hi Number cterm=NONE gui=NONE guifg=#e0a363 guibg=NONE guisp=NONE
 hi Operator cterm=NONE gui=NONE guifg=#90a0b5 guibg=NONE guisp=NONE
-hi Pmenu cterm=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
-hi PmenuBorder cterm=NONE gui=NONE guifg=#878787 guibg=NONE guisp=NONE
-hi PmenuMatch cterm=bold gui=bold guifg=NONE guibg=NONE guisp=NONE
-hi PmenuMatchSel cterm=bold gui=bold guifg=NONE guibg=NONE guisp=NONE
-hi PmenuSbar cterm=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
-hi PmenuSel cterm=undercurl gui=undercurl guifg=#aeaed1 guibg=#252530 guisp=NONE
+hi Pmenu cterm=NONE gui=NONE guifg=#cdcdcd guibg=#252530 guisp=NONE
+hi PmenuSbar cterm=NONE gui=NONE guifg=#cdcdcd guibg=#252530 guisp=NONE
+hi PmenuSel cterm=NONE gui=NONE guifg=#252530 guibg=#cdcdcd guisp=NONE
 hi PmenuShadow cterm=NONE gui=NONE guifg=NONE guibg=#333738 guisp=NONE
 hi PmenuThumb cterm=NONE gui=NONE guifg=NONE guibg=#606079 guisp=NONE
 hi PreCondit cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
